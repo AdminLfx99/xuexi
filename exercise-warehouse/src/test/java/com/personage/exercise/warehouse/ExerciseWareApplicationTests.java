@@ -1,4 +1,4 @@
-package com.personage.exercise.ware;
+package com.personage.exercise.warehouse;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

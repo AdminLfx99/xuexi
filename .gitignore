@@ -22,3 +22,18 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# lose sight of files
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+**/target/
+.idea
+**/exercise-coupon/.gitignore
+**/exercise-member/.gitignore
+**/exercise-order/.gitignore
+**/exercise-product/.gitignore
+**/exercise-warehouse/.gitignore
+
+
+

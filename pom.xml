@@ -10,6 +10,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
+    <properties>
+        <java.version>1.8</java.version>
+    </properties>
+
     <groupId>com.personage.exercise</groupId>
     <artifactId>personage-exercise</artifactId>
     <version>0.0.1-SNAPSHOT</version>
@@ -20,9 +24,12 @@
     <modules>
         <module>exercise-product</module>
         <module>exercise-order</module>
-        <module>exercise-ware</module>
+        <module>exercise-warehouse</module>
         <module>exercise-coupon</module>
         <module>exercise-member</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>exercise-common</module>
     </modules>
 
 </project>
